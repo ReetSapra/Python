@@ -1,11 +1,4 @@
-# File: homework4.py
-# Assignment: Homework 4
-# Description: This program uses while loops to get user input and
-# calculate the total of even numbers and then odd numbers.
-# Author: Reet Sapra
-# Email: reetsapr@usc.edu
-# Section: Tictacs
-# Instructor: Emily Millard
+
 
 
 
