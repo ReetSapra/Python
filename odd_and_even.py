@@ -1,11 +1,4 @@
-# File: homework7.py
-# Assignment Homework 7
-# Description: This program plays the Odds and Evens game by
-# defining and calling functions.
-# Author: Reet Sapra
-# Email: reetsapr@usc.edu
-# Section: Tictacs
-# Instructor: Prof. Millard
+
 
 import random
 
