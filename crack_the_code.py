@@ -1,11 +1,4 @@
-# File: homework8.py
-# Assignment: Homework 8
-# Description: This program plays the Crack the Code game by
-# defining and calling functions.
-# Author: Reet Sapra
-# Email: reetsapr@usc.edu
-# Section: Tictacs
-# Instructor: Prof. Millard
+
 
 import random
 
