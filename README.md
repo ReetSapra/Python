@@ -7,6 +7,13 @@ Birthday CSV Project
 
 A program that reads and processes birthday information stored in a CSV file. Demonstrates file handling, data organization, and working with structured datasets.
 
+The original CSV file used during development is not included in this repository. The program is designed to read birthday data from a CSV file containing names and corresponding birth dates. A sample format is shown below:
+
+Name,Birthday
+Alice,2004-05-12
+Bob,2003-11-21
+Charlie,2005-08-30
+
 Word Guessing Game
 
 An interactive command-line game where users attempt to guess a hidden word. Demonstrates loops, conditionals, user input handling, and game logic.
