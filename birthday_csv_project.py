@@ -1,10 +1,3 @@
-# File: homework10.py
-# Assignment: Homework 10
-# Description: This program manages people's birthdays using a dict.
-# Author: Reet Sapra
-# Email: reetsapr@usc.edu
-# Section: Tictacs
-# Instructor: Emily Millard
 
 
 
