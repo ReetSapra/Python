@@ -1,10 +1,4 @@
-# File: homework5.py
-# Assignment: Homework 5
-# Description: This program plays the D20 game using loops.
-# Author: Reet Sapra
-# Email: reetsapr@usc.edu
-# Section: Tictacs
-# Instructor: Emily Millard
+
 
 print(basketball[1])
 import random
