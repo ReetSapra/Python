@@ -1,10 +1,4 @@
-# File: homework6.py
-# Assignment: Homework 6
-# Description: This program is a word guessing game using lists.
-# Author: Reet Sapra
-# Email: reetsapr@usc.edu
-# Section: Tictacs
-# Instructor: Emily Millard
+
 
 import random
 
